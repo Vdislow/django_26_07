@@ -24,7 +24,3 @@ item5.purchase_set.create(name='Peter', age=37, date_purchase=timezone.now())
 item5.purchase_set.create(name='Oleg', age=35, date_purchase=timezone.now())
 
 
-
-
-
-
